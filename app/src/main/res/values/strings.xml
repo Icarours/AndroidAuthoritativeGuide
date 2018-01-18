@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidAuthoritativeGuide</string>
+    <string name="valueTrue">answer is correct!</string>
+    <string name="valueFalse">answer is wrong!!</string>
+</resources>

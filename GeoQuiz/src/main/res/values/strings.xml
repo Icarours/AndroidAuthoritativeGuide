@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="valueTrue">answer is correct!</string>
+    <string name="valueFalse">answer is wrong!!</string>
+    <string name="question1">中国是世界上土地面积最大的国家?</string>
+    <string name="question2">长江是世界上最大的河流?</string>
+    <string name="question3">贝加尔湖是世界上最大的淡水湖泊?</string>
+    <string name="question4">喜马拉雅山是世界上最大的山脉?</string>
+    <string name="question5">珠穆朗玛峰是世界上最高的山峰?</string>
+</resources>
